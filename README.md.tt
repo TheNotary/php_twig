@@ -1,0 +1,14 @@
+# <%=config[:constant_name]%>
+
+TODO: Describe your project
+
+## Installation
+
+You can self-host this code from this folder using PHP
+
+```
+$ php -S localhost:8000
+```
+
+Otherwise, if you built something cool use php-fpm and nginx, or some apache solution.  
+
